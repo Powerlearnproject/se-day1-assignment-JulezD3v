@@ -7,9 +7,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
     The systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software.
-    It's important in the tech industry because it supports Innovation in Emerging Technologies, Artificial intelligence, blockchain, cloud computing, and IoT, all depend on software engineering. 
-                                                                                               Engineers develop and maintain the algorithms, platforms, and infrastructures that power these 
-                                                                                               innovations, pushing technological advancements forward.
+    It's important in the tech industry because it supports Innovation in Emerging Technologies, Artificial intelligence, blockchain, cloud computing, and IoT, all of which depend on software engineering. Engineers develop and maintain the algorithms, platforms, and infrastructures that power these innovations, pushing technological advancements forward.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
         
